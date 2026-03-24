@@ -18,7 +18,7 @@ Analysis of 100K+ real Brazilian e-commerce orders using SQL and Tableau.
 - Roramia (RR) has the higest average delivery time at 29.4 days.
 
 ## Tableau Dashboard
-View Live Dashboard: https://public.tableau.com/shared/NGPN7GZYW?:display_count=n&:origin=viz_share_link
+View Live Dashboard: https://public.tableau.com/views/OlistE-CommercePerformanceAnalysis_17738451405140/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Dataset 
 Olist Brazilian E-Commerce: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
